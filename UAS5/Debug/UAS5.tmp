@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>c:\users\fx46\Documents\Atmel Studio\7.0\UAS5\UAS5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\fx46\Documents\Atmel Studio\7.0\UAS5\UAS5\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\fx46\Documents\Atmel Studio\7.0\UAS5\UAS5\Debug\UAS5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>UAS5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>UAS5.map</FILE>
+  <FILE>UAS5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>c:\users\fx46\Documents\Atmel Studio\7.0\UAS5\UAS5\main.asm</FILE><LINE>19</LINE></main>
+  <TIMER1_OVF><FILE>c:\users\fx46\Documents\Atmel Studio\7.0\UAS5\UAS5\main.asm</FILE><LINE>65</LINE></TIMER1_OVF>
+  <here><FILE>c:\users\fx46\Documents\Atmel Studio\7.0\UAS5\UAS5\main.asm</FILE><LINE>44</LINE></here>
+  <progb><FILE>c:\users\fx46\Documents\Atmel Studio\7.0\UAS5\UAS5\main.asm</FILE><LINE>74</LINE></progb>
+  <proga><FILE>c:\users\fx46\Documents\Atmel Studio\7.0\UAS5\UAS5\main.asm</FILE><LINE>72</LINE></proga>
+ </LABELS>
+</ASSEMBLER_INFO>
